@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![gurokawa stamp](IMG_7318.gif)
 
-![gurokawa stamp](IMG_7302.png)
+![gurokawa stamp](Untitled616_20260201225615.png)
