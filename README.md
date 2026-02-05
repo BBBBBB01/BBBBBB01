@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align: center ![gurokawa stamp](IMG_7318.gif)>
+<img align: center> ![gurokawa stamp](IMG_7318.gif)
 
 ![molang stamp](Untitled616_20260201225615.png)
 
