@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 ![gurokawa stamp](IMG_7318.gif)
 
-![gurokawa stamp](Untitled616_20260201225615.png)
+![molang stamp](Untitled616_20260201225615.png)
+
+![molang stamp](Untitled616_20260201225615.png)
+
