@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![molang stamp](Untitled616_20260201225615.png)
 
-![molang stamp](Untitled616_20260201225615.png)
+![polka dot pink stamp](IMG_7301.png)
 
