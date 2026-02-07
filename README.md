@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://files.catbox.moe/2sot5p.gif" width="99" height="56"/> ![gurokawa stamp](IMG_7318.gif | height=99 width=56)![molang stamp](Untitled616_20260201225615.png)![polka dot pink stamp](Untitled620_20260205111832.png)![gloomy bear stamp](IMG_7366.png)![mamegoma stamp](IMG_7448.gif)![building stamp](IMG_7449.png)![broken glass stamp](IMG_7450.png)![camo fluttershy stamp](Untitled622_20260205141811.png)
-
+<img src="https://files.catbox.moe/2sot5p.gif" width="99" height="56"/> <img src="https://files.catbox.moe/l0hko2.png" width="99" height="56"/> 
