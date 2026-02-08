@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://files.catbox.moe/dv4xq9.gif"/><p align="center"><img src="https://files.catbox.moe/ekcm5l.png"/></p>
+<p align="center"><img src="https://files.catbox.moe/ekcm5l.png"/></p>
 
 <img src="https://files.catbox.moe/2sot5p.gif" width="99" height="56"/> <img src="https://files.catbox.moe/l0hko2.png" width="99" height="56"/> <img src="https://files.catbox.moe/umzg9l.gif" width="99" height="56"/> <img src="https://files.catbox.moe/ilror1.gif" width="99" height="56"/> <img src="https://files.catbox.moe/8t6cc3.png" width="99" height="56"/> <img src="https://files.catbox.moe/s2xvwy.png" width="99" height="56"/> 
